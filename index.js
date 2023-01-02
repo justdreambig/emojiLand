@@ -1,6 +1,3 @@
-// Checking is this helps
-
-
 const myEmojis = ["👨‍💻", "🕹", "🏈", "🎬"]
 const emojiContainer = document.getElementById("emoji-container")
 const emojiInput = document.getElementById("emoji-input")
