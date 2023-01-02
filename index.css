@@ -8,6 +8,21 @@ body {
     background-image: linear-gradient(#5DA4D9, #FFF);
 }
 
+.container {
+    margin: auto;
+    border-radius: 20px;
+    width: 500px;
+    height: 375px;
+    background:#5d74d9;
+
+    /* border: solid red; */
+}
+
+h1 {
+    
+    padding-top:  10px;
+}
+
 #emoji-container {
     margin: 40px;
     text-align: center;
